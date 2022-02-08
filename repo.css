@@ -166,11 +166,11 @@ font-weight: 100;
                     line-height: 50px;
                     margin: 46px 110px;
                     position: absolute;
-                   z-index: 2222
+                    z-index: 2222
           }
           #portfolio .a{
 
-                    font-size: 3px;
+                    font-size:50px;
           }
           #portfolio .b{
                margin-left: 10px;
