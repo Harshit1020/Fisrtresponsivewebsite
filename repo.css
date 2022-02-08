@@ -164,13 +164,13 @@ font-weight: 100;
           }
           #portfolio{
                     line-height: 50px;
-                    margin: -52px 110px;
+                    margin: 46px 110px;
                     position: absolute;
                    z-index: 2222
           }
           #portfolio .a{
 
-                    font-size: 50px;
+                    font-size: 2px;
           }
           #portfolio .b{
                margin-left: 10px;
@@ -191,7 +191,7 @@ font-weight: 100;
              top: 35%;
      }
      #img{
-          top: 30%;
+          top: 49%;
           position: absolute;
           width: 60vw;
           height:230px;
