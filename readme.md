@@ -1,5 +1,5 @@
 We are IN learning phase...
-Features:
+#Features:
     1.Your new HTML website will immediately have publishable and documented code, and all these features:
     2. Deploy automatically using GitHub Pages
     3.Test locally with VS Code and the Tasks feature (uses rake behind scenes)
@@ -10,7 +10,7 @@ Features:
     8.Documentation for contributors
     
     
-How to use this :
+#How to use this :
             #First clone or download a release, that is the starting point for your site.
 
             #THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE BABY!
